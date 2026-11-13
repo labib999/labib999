@@ -1,82 +1,70 @@
-![MasterHead](https://i.pinimg.com/originals/f9/b8/8d/f9b88deeae101d6a8572063bb63c286e.gif)
 
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=500&color=FF0066&center=true&vCenter=true&width=650&lines=Welcome+To+The+Heaven+Of+Code+!" alt="Typing SVG" />
-</h1>
+<h1 align="center">Hi, I'm Labib 👋</h1>
+<h3 align="center">CSE Undergraduate | Aspiring Data Scientist & ML Engineer</h3>
 
-<!-- Replaced ERROR404 with marufbytes -->
-<h3 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=500&color=FF0066&center=true&vCenter=true&width=650&lines=m+a+r+u+f+b+y+t+e+s" />
-</h3>
-
-<!-- Expanded GIF Right Side -->
-<img
-  align="right"
-  src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"
-  width="500"
-  height="330"
-  alt="Coding"
-  style="margin-left:20px;"
-/>
-
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=marufbytes&label=Profile%20views&color=0e75b6&style=flat" alt="marufbytes" />
-</p>
-
-<p align="left">
-  <a href="https://twitter.com/maruf_864" target="_blank">
-    <img src="https://img.shields.io/twitter/follow/maruf_864?logo=twitter&style=for-the-badge" alt="maruf_864" />
+<p align="center">
+  <a href="https://www.linkedin.com/in/shariarlabib/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin" />
+  </a>
+  <a href="https://github.com/labib999">
+    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=flat-square&logo=github" />
   </a>
 </p>
 
-Reach me at: *maruahammed496@gmail.com*
+---
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="https://twitter.com/maruf_864" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" height="30" width="40"/>
-  </a>
-  <a href="https://linkedin.com/in/maruf864" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40"/>
-  </a>
-  <a href="https://fb.com/maruf.864" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" height="30" width="40"/>
-  </a>
-  <a href="https://instagram.com/its_maruf_01" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="40"/>
-  </a>
-</p>
+### 👨‍💻 About Me
+
+I'm a Computer Science undergraduate at **American International University-Bangladesh (AIUB)**, interested in building intelligent systems through data science and machine learning.
+
+- 📊 Interested in Data Science & Statistical Analysis
+- 🤖 Exploring Machine Learning and Deep Learning
+- 🧠 Interested in Natural Language Processing (NLP)
+- 🔬 Exploring applied AI research and real-world ML applications
+- 🌱 Constantly learning and building through hands-on projects
+
+### 🛠️ Tech Stack
+
+**Languages**
 
 <p>
-  <h3 align="left">Know me from:</h3>
+  <img src="https://skillicons.dev/icons?i=python,cpp,c,mysql" />
+</p>
 
-  <a href="https://www.codechef.com/users/marufbytes" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" height="30" width="40"/>
-  </a>
-  
-  <a href="https://codeforces.com/profile/marufbytes" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" height="30" width="40"/>
-  </a>
+**Data Science & Machine Learning**
 
-  <a href="https://www.leetcode.com/marufbytes" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" height="30" width="40"/>
-  </a>
+<p>
+  <img src="https://skillicons.dev/icons?i=sklearn" />
+  <img src="https://cdn.simpleicons.org/numpy/013243" height="48" />
+  <img src="https://cdn.simpleicons.org/pandas/150458" height="48" />
+  <img src="https://skillicons.dev/icons?i=matlab" />
+</p>
 
-  <a href="https://www.hackerrank.com/marufbytes" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" height="30" width="40"/>
+**Tools & Platforms**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,linux,jupyter" />
+</p>
+
+### 🚀 Currently Working On
+
+- Strengthening my foundations in statistics, machine learning, and SQL.
+- Building practical data science and machine learning projects.
+- Exploring NLP, deep learning, and applied AI research.
+
+### 📫 Let's Connect
+
+<p>
+  <a href="https://www.linkedin.com/in/shariarlabib/">
+    <img src="https://img.shields.io/badge/LinkedIn-Labib-blue?style=flat-square&logo=linkedin" />
+  </a>
+  <a href="mailto:">
+    <img src="https://img.shields.io/badge/Email-Contact-red?style=flat-square&logo=gmail" />
   </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-  <a href="https://www.cprogramming.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40"/></a>
-  <a href="https://www.w3schools.com/cpp/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40"/></a>
-  <a href="https://www.w3schools.com/cs/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="40"/></a>
-  <a href="https://www.w3schools.com/css/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40"/></a>
-  <a href="https://git-scm.com/"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40"/></a>
-  <a href="https://www.w3.org/html/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40"/></a>
-  <a href="https://www.java.com"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40"/></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40"/></a>
-  <a href="https://www.mysql.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40"/></a>
-  <a href="https://www.python.org"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/></a>
+---
+
+<p align="center">
+  <i>"Always learning. Always building."</i>
 </p>
